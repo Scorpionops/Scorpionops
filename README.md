@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Gokul
 
-<!--
-**Scorpionops/Scorpionops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI Engineer
+
+🛡️ Cybersecurity Researcher
+
+🌱 Currently Building AI & Secure Web Applications
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git
+- GitHub
+- Linux
+- Docker
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 LearnForge AI Platform
+- 🔐 Cybersecurity Research
+- ☁️ Cloud Projects
+
+---
+
+## 🎯 2026 Goals
+
+- Become a Microsoft Developer
+- Become an Open Source Contributor
+- Build AI Products
+- Publish Professional Projects
+
+---
+
+⭐ Thanks for visiting my profile!
+
