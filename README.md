@@ -16,16 +16,9 @@
 
 ## 💻 Tech Stack
 
-- Python
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Git
-- GitHub
-- Linux
-- Docker
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,git,github,linux,docker,vscode,azure&theme=dark" />
+</p>
 ---
 
 ## 🚀 Current Projects
