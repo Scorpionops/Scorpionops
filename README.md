@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Gokul;Software+Developer;AI+Engineer;Cybersecurity+Researcher;Microsoft+Developer+Journey" alt="Typing SVG" />
+</p>
 # Hi 👋 I'm Gokul
 
 ## 🚀 About Me
